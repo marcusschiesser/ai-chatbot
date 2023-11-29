@@ -12,6 +12,7 @@
   <a href="#running-locally"><strong>Running locally</strong></a> ·
 </p>
 <br/>
+<img alt="Screenshot" src="public/screenshot.png">
 
 ## Features
 
